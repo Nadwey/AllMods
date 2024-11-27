@@ -1,0 +1,13 @@
+name = "Improved Mobs (Forge)"
+filename = "improvedmobs-1.20.1-1.13.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b133f80ea4f77f497c8a9c880fccff1a6477a2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5806784
+project-id = 282639

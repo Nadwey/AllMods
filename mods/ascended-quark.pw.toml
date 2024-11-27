@@ -1,0 +1,13 @@
+name = "Ascended Quark"
+filename = "ascended_quark-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59f27fbdfe75084c6fbb9e0666167158109f6acf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5872635
+project-id = 971104

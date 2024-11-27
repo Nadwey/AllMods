@@ -1,0 +1,13 @@
+name = "Living Things"
+filename = "livingthings-forge-1.20.1-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e49e486d318a8a6db36ed0fed1cc52506cb56a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5893548
+project-id = 397252

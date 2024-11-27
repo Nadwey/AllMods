@@ -1,0 +1,13 @@
+name = "Arthropod Phobia Expansions + Horror Bosses (Spider Moth)"
+filename = "ArPhEx-3.2.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36cfa3830bb2d88c4fbd47a7ede30145e2f081f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5830688
+project-id = 967672
