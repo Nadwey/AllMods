@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ab3709bcf63b550288cfe5e8a58085481d45a5f17a9ee14386c1143811f1b8c0"
+hash = "aa4ff8285f7e0669038b4497f89faaf5e4e9b598fba436dc5ecdffdd72ca16bb"
 
 [[files]]
 file = "config/itlt-client.toml"
