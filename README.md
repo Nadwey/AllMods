@@ -9,5 +9,6 @@ Unlike All The Mods, which puts some focus on quests, progression, and overall p
 ## Playability (TODO)
 
 - [x] Be able to boot to main menu
+- [x] Be able to create and play in a world
 - [ ] Fix console spam
-- [ ] Be able to create and play in a world
+- [ ] Review mods
