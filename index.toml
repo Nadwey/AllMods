@@ -1649,11 +1649,6 @@ hash = "51e611da94be0833e3a3bf4872ccb013e82b531294a5c2913b754b5dcd6dbd6c"
 metafile = true
 
 [[files]]
-file = "mods/essential-mod.pw.toml"
-hash = "919cb832ee2e44b175cb1a7ffab7f16b460340bdc11d6184840707dacb457312"
-metafile = true
-
-[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "d0f155f7e65913c27ed2b3565652dadf3f489b0ad5e467e1f9170b72a857fa40"
 metafile = true
@@ -2506,11 +2501,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-calculation.pw.toml"
 hash = "712ac3e3cca6cd0478dfeafac21f7926dba0c54763144ae168ed200d894e6464"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "d750a538b8c2cafca9efda5ba3d0e886b1f116f1fbb8ae08889b6a97902bbc3f"
 metafile = true
 
 [[files]]
@@ -3856,11 +3846,6 @@ metafile = true
 [[files]]
 file = "mods/shield-overhaul.pw.toml"
 hash = "c93bd34f45c284ca41c4492a5f7783be43cebb43b888b3425582f4e10da24d9f"
-metafile = true
-
-[[files]]
-file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "81c2e25d98cecde8dc41bd6282b8ca0fc828587f55727a7ebc85599dacd1bdeb"
 metafile = true
 
 [[files]]
