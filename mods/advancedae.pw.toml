@@ -1,13 +1,13 @@
 name = "AdvancedAE"
-filename = "AdvancedAE-0.9.0-1.20.1-beta.jar"
+filename = "AdvancedAE-0.9.3-1.20.1-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "762ddd95492af5f157249bdb10be6063cc2853fa"
+hash = "207ea4c33633eeccad0e0c61ccc2417259c88705"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5945692
+file-id = 5954510
 project-id = 1084104
