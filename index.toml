@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "aa4ff8285f7e0669038b4497f89faaf5e4e9b598fba436dc5ecdffdd72ca16bb"
+hash = "c50236230f8c41a80686d70de168a6c8f83a4a36b974682984f168195560d2f7"
 
 [[files]]
 file = "config/itlt-client.toml"
-hash = "f6641caecc45b515d5ace249f34c12037d4538f3a907e271645acc2a321c8146"
+hash = "e678374e47d50ff47613290d6f7fe9ab9d0b348154607d3199b9ea7a5fb1eb5a"
 
 [[files]]
 file = "mods/aaa-particles.pw.toml"
@@ -1621,11 +1621,6 @@ metafile = true
 [[files]]
 file = "mods/endertanks.pw.toml"
 hash = "db3f29caf28a6874f8f26f80c2bfcece58fca1377e7ff3d0e17550d2eda096c7"
-metafile = true
-
-[[files]]
-file = "mods/endless-biomes.pw.toml"
-hash = "06b54f10d8da21693929d3cfdba145f190af868490f5229bfef1a2c3b86c46bf"
 metafile = true
 
 [[files]]
@@ -3899,6 +3894,11 @@ hash = "53254c5c7af6238845518f9e289b8b91337e88b6dad4566c2e1b223f6901f456"
 metafile = true
 
 [[files]]
+file = "mods/satako-library.pw.toml"
+hash = "836e67726a08f695016b65accbb885409f6cb6ea5a63c4e1d74a9d07bf0b94fe"
+metafile = true
+
+[[files]]
 file = "mods/savage-ender-dragon.pw.toml"
 hash = "844ccf23ba21f56bc5ddc4f64afdf3bcf8b6b29f6066b5520311aee96b59b339"
 metafile = true
@@ -4316,11 +4316,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
-metafile = true
-
-[[files]]
-file = "mods/terrafirmacraft.pw.toml"
-hash = "8a34a4cbf21634708ec8241ead8b0bb5227152d0518d78ab2264d88375728ba5"
 metafile = true
 
 [[files]]
