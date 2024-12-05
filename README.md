@@ -12,3 +12,9 @@ Unlike All The Mods, which puts some focus on quests, progression, and overall p
 - [x] Be able to create and play in a world
 - [ ] Fix console spam
 - [ ] Review mods
+
+## OpenAL crash on Linux
+
+If your game crashes because of `libopenal.so`, follow these instructions:
+
+https://wiki.archlinux.org/title/Minecraft#Audio_stutters_on_PipeWire
